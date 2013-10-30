@@ -1,0 +1,11 @@
+{
+	"copyFiles": [
+		"HeyzapPlugin.java"
+	],
+	"libraries": [
+	],
+	"jars": [
+		"./heyzap-ads-sdk.jar"
+	],
+	"injectionXML": "manifest.xml"
+}
